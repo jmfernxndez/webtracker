@@ -13,6 +13,9 @@ WebTrack helps you measure how much time you spend on each website — locally, 
 - ⚡ Lightweight and unobtrusive
 - 🧩 Easy to install, no configuration required
 
+![Options configuration](./img/options.png)
+![Popup](./img/popup.png)
+
 ---
 
 ## 📦 Installation
