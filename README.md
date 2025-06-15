@@ -1,7 +1,7 @@
-# WebTrack
+# Webtracker
 
 **A minimalist, private time tracker for your browser.**  
-WebTrack helps you measure how much time you spend on each website — locally, without sending a single byte to external servers.
+Webtracker helps you measure how much time you spend on each website — locally, without sending a single byte to external servers.
 
 ---
 
@@ -30,7 +30,7 @@ WebTrack helps you measure how much time you spend on each website — locally, 
 ## 📁 Project Structure
 
 ```plaintext
-webtrack/
+Webtracker/
 ├── img/                → Extension icons (16px, 32px, 48px, 128px)
 ├── popup.html          → UI popup for toolbar
 ├── options.html        → Extension settings
