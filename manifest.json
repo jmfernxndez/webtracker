@@ -1,0 +1,30 @@
+{
+  "name": "Webtracker",
+  "version": "1.0.0",
+  "manifest_version": 3,
+  "description": "Registra el tiempo que pasas en cada web y lo guarda localmente por día.",
+  "icons": {
+    "16": "img/ico16.png",
+    "32": "img/ico32.png",
+    "48": "img/ico48.png",
+    "128": "img/ico128.png"
+  },
+  "permissions": [
+    "storage",
+    "tabs",
+    "activeTab"
+  ],
+  "background": {
+    "service_worker": "background.js"
+  },
+  "action": {
+    "default_popup": "popup.html",
+    "default_icon": {
+      "16": "img/ico16.png"
+    }
+  },
+  "host_permissions": [
+    "<all_urls>"
+  ],
+  "options_page": "options.html"
+}
